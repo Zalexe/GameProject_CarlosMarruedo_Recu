@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ranking>
+
+  <Player name="">
+    <Dificulty lang="en"></Dificulty>
+    <Score></Score>
+    <Maxlevel></Maxlevel>
+    <Position></Position>
+  </Player>
+
+  <Player name="">
+    <Dificulty lang="en"></Dificulty>
+    <Score></Score>
+    <Maxlevel></Maxlevel>
+    <Position></Position>
+  </Player>
+
+
+  <Player name="">
+    <Dificulty lang="en"></Dificulty>
+    <Score></Score>
+    <Maxlevel></Maxlevel>
+    <Position></Position>
+  </Player>
+
+
+  <Player name="">
+    <Dificulty lang="en"></Dificulty>
+    <Score></Score>
+    <Maxlevel></Maxlevel>
+    <Position></Position>
+  </Player>
+
+
+</Ranking>

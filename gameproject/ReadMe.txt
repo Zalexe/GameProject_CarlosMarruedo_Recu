@@ -1,0 +1,1 @@
+Se le ha añadido 2 funciones obligatorias del juego snake (colision con su cuerpo y timer)

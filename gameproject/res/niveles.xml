@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<variables>
+	<easy>
+		<arriba_x>950</arriba_x>
+    <arriba_y>120</arriba_y>
+
+    <derecha_x>970</derecha_x>
+    <derecha_y>650</derecha_y>
+
+    <abajo_x>950</abajo_x>
+    <abajo_y>700</abajo_y>
+
+    <izquierda_x>50</izquierda_x>
+    <izquierda_y>650</izquierda_y>
+
+		
+		<time>120</time>
+		<speed>8</speed>
+		<initial>5</initial>
+		<incremental>2</incremental>
+	</easy>
+
+	<medium>
+   		<arriba_x>950</arriba_x>
+    <arriba_y>120</arriba_y>
+
+    <derecha_x>970</derecha_x>
+    <derecha_y>650</derecha_y>
+
+    <abajo_x>950</abajo_x>
+    <abajo_y>700</abajo_y>
+
+    <izquierda_x>50</izquierda_x>
+    <izquierda_y>650</izquierda_y>
+
+		<time>60</time>
+		<speed>6</speed>
+		<initial>10</initial>
+		<incremental>4</incremental>
+	</medium>
+
+	<hard>
+    <arriba_x>950</arriba_x>
+    <arriba_y>120</arriba_y>
+
+    <derecha_x>970</derecha_x>
+    <derecha_y>650</derecha_y>
+
+    <abajo_x>950</abajo_x>
+    <abajo_y>700</abajo_y>
+
+    <izquierda_x>50</izquierda_x>
+    <izquierda_y>650</izquierda_y>
+
+    <time>30</time>
+		<speed>4</speed>
+		<initial>15</initial>
+		<incremental>12</incremental>
+	</hard>
+</variables>
